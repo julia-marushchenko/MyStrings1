@@ -16,7 +16,7 @@ public class Main {
         String letters = "ABCDEFGHIJKLMN";
 
         // Finding index of symbol 'J'
-        System.out.println('J');
+        System.out.println(letters.indexOf('J')); // Output: 9
 
     }
 }
